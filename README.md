@@ -32,7 +32,7 @@
 
 ### Youtube clone app
 
-[🔗&nbsp; https://cafe-hopping.vercel.app/](https://portfolio-nextjs-atenahatta.vercel.app/)  
+[🔗&nbsp; https://my-you-tube-client.vercel.app/](https://my-you-tube-client.vercel.app/)  
 [👩🏻‍💻&nbsp; https://github.com/AtenaHatta/MyYouTube](https://github.com/AtenaHatta/MyYouTube)  
 React, Node.js, MongoDB, Express, Tailwind
 Library (axios, becrypt, date-fns, react-hook-form, react-icons, ract-router-dom, react-toastify, zod)
